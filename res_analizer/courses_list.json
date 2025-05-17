@@ -1,0 +1,61 @@
+{
+  "finance": [
+    {"title": "Financial Accounting Fundamentals", "url": "https://www.udemy.com/course/financial-accounting-fundamentals/", "price": "Free"},
+    {"title": "Corporate Finance Essentials", "url": "https://www.udemy.com/course/corporate-finance-essentials/", "price": "$19.99"},
+    {"title": "Investment Banking and Financial Modeling", "url": "https://www.udemy.com/course/investment-banking-financial-modeling/", "price": "$25.99"},
+    {"title": "Financial Management for Beginners", "url": "https://www.udemy.com/course/financial-management-for-beginners/", "price": "$14.99"},
+    {"title": "Advanced Excel for Financial Modeling", "url": "https://www.udemy.com/course/advanced-excel-for-financial-modeling/", "price": "$39.99"},
+    {"title": "Personal Finance Mastery", "url": "https://www.udemy.com/course/personal-finance-mastery/", "price": "$19.99"}
+  ],
+  "technology": [
+    {"title": "Python for Data Science and Machine Learning Bootcamp", "url": "https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/", "price": "$11.99"},
+    {"title": "The Web Developer Bootcamp 2023", "url": "https://www.udemy.com/course/the-web-developer-bootcamp/", "price": "$13.99"},
+    {"title": "Deep Learning A-Z™: Hands-On Artificial Neural Networks", "url": "https://www.udemy.com/course/deep-learning-a-z/", "price": "$19.99"},
+    {"title": "Introduction to AI and Machine Learning", "url": "https://www.udemy.com/course/introduction-to-ai-and-machine-learning/", "price": "$17.99"},
+    {"title": "Learn JavaScript and React for Web Development", "url": "https://www.udemy.com/course/learn-javascript-and-react-for-web-development/", "price": "$22.99"},
+    {"title": "Android Development for Beginners", "url": "https://www.udemy.com/course/android-development-for-beginners/", "price": "$15.99"}
+  ],
+  "marketing": [
+    {"title": "The Complete Digital Marketing Course", "url": "https://www.udemy.com/course/learn-digital-marketing/", "price": "$12.99"},
+    {"title": "Social Media Marketing Mastery", "url": "https://www.udemy.com/course/social-media-marketing-mastery/", "price": "$19.99"},
+    {"title": "Email Marketing Made Easy", "url": "https://www.udemy.com/course/email-marketing-made-easy/", "price": "$9.99"},
+    {"title": "SEO Training: Learn Search Engine Optimization", "url": "https://www.udemy.com/course/seo-training-learn-search-engine-optimization/", "price": "$14.99"},
+    {"title": "Facebook Ads & Facebook Marketing Mastery", "url": "https://www.udemy.com/course/facebook-ads-facebook-marketing-mastery/", "price": "$19.99"},
+    {"title": "Google Ads for Beginners", "url": "https://www.udemy.com/course/google-ads-for-beginners/", "price": "$12.99"}
+  ],
+  "business": [
+    {"title": "The Complete Business Plan Course", "url": "https://www.udemy.com/course/business-plan-course/", "price": "$14.99"},
+    {"title": "Business Communication Skills Mastery", "url": "https://www.udemy.com/course/business-communication-skills-mastery/", "price": "$11.99"},
+    {"title": "Entrepreneurship: Launching an Online Business", "url": "https://www.udemy.com/course/entrepreneurship-launching-an-online-business/", "price": "$17.99"},
+    {"title": "Time Management Mastery: Do More in Less Time", "url": "https://www.udemy.com/course/time-management-mastery/", "price": "$19.99"},
+    {"title": "Mastering Leadership and Management Skills", "url": "https://www.udemy.com/course/leadership-management-skills/", "price": "$16.99"},
+    {"title": "Project Management Mastery", "url": "https://www.udemy.com/course/project-management-mastery/", "price": "$21.99"}
+  ],
+  "data_science": [
+    {"title": "Data Science and Machine Learning Bootcamp with R", "url": "https://www.udemy.com/course/data-science-and-machine-learning-bootcamp-with-r/", "price": "$12.99"},
+    {"title": "Complete Python for Data Science & Machine Learning", "url": "https://www.udemy.com/course/complete-python-for-data-science-machine-learning/", "price": "$11.99"},
+    {"title": "SQL for Data Science", "url": "https://www.udemy.com/course/sql-for-data-science/", "price": "$14.99"},
+    {"title": "Tableau 2023 A-Z: Hands-On Tableau Training for Data Science", "url": "https://www.udemy.com/course/tableau-2020-a-z-hands-on-tableau-training-for-data-science/", "price": "$19.99"},
+    {"title": "Data Visualization with Python", "url": "https://www.udemy.com/course/data-visualization-with-python/", "price": "$17.99"},
+    {"title": "Machine Learning A-Z™: Hands-On Python & R in Data Science", "url": "https://www.udemy.com/course/machine-learning-a-z/", "price": "$24.99"}
+  ],
+  "programming": [
+    {"title": "The Complete JavaScript Course 2023: From Zero to Expert!", "url": "https://www.udemy.com/course/the-complete-javascript-course/", "price": "$18.99"},
+    {"title": "Complete C# Programming for Beginners", "url": "https://www.udemy.com/course/complete-csharp-programming-for-beginners/", "price": "$15.99"},
+    {"title": "The Complete Python Bootcamp: Go from Zero to Hero in Python 3", "url": "https://www.udemy.com/course/complete-python-bootcamp/", "price": "$22.99"},
+    {"title": "Java Programming for Beginners", "url": "https://www.udemy.com/course/java-programming-for-beginners/", "price": "$14.99"},
+    {"title": "Complete Swift Programming for Beginners", "url": "https://www.udemy.com/course/complete-swift-programming-for-beginners/", "price": "$19.99"},
+    {"title": "Learn HTML & CSS: The Complete Web Development Guide", "url": "https://www.udemy.com/course/learn-html-css-complete-web-development-guide/", "price": "$12.99"}
+  ],
+  "design": [
+    {"title": "The Ultimate Graphic Design Course", "url": "https://www.udemy.com/course/the-ultimate-graphic-design-course/", "price": "$19.99"},
+    {"title": "Web Design for Beginners: Real World Coding in HTML & CSS", "url": "https://www.udemy.com/course/web-design-for-beginners-real-world-coding-in-html-css/", "price": "$14.99"},
+    {"title": "Adobe Photoshop CC – Essentials Training Course", "url": "https://www.udemy.com/course/adobe-photoshop-cc-essentials/", "price": "$9.99"},
+    {"title": "UX & Web Design Master Course: Strategy, Design, Development", "url": "https://www.udemy.com/course/ux-web-design-master-course-strategy-design-development/", "price": "$21.99"},
+    {"title": "Logo Design: From Beginner to Professional", "url": "https://www.udemy.com/course/logo-design-from-beginner-to-professional/", "price": "$13.99"},
+    {"title": "Complete Introduction to Adobe Illustrator for Beginners", "url": "https://www.udemy.com/course/complete-introduction-to-adobe-illustrator-for-beginners/", "price": "$16.99"}
+  ]
+}
+
+
+  
